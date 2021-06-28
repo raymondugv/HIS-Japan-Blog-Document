@@ -2,15 +2,16 @@
 
 In here we would help you know how to use the system as we expected.
 
-- [Content Management](#content-management)
+- [Author document](#author-document)
   - [How to login](#how-to-login)
   - [Change user information](#change-user-information)
   - [Posts](#posts)
     - [Posts List](#posts-list)
     - [Add new Post](#add-new-post)
     - [Edit post](#edit-post)
+- [Administrator's Document](#administrators-document)
 
-# Content Management
+# Author document
 
 In this section, bla bla bla
 
@@ -169,3 +170,7 @@ Has a new section called **Related Product**.
 
 ![image](https://user-images.githubusercontent.com/21214764/123583281-8a358280-d809-11eb-997e-abae16a795bc.png)
 ![image](https://user-images.githubusercontent.com/21214764/123583297-91f52700-d809-11eb-85f5-2762ab407603.png)
+
+___
+# Administrator's Document
+For administrator's document, please click [here](https://github.com/raymondugv/HIS-Japan-Blog-Document/discussions/2).
