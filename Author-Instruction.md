@@ -15,5 +15,3 @@ After installing VSCode extension, please follow thest instruction below.
 
 5. Save and restart your VSCode by close it and open again.
 ---
-
-If you'd like to create TOC (Table of Content) please use [this](https://ecotrust-canada.github.io/markdown-toc/).
