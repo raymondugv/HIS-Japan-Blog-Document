@@ -4,6 +4,7 @@ In here we would help you know how to use the system as we expected.
 
 - [Content Management](#content-management)
   - [How to login](#how-to-login)
+  - [Change user information](#change-user-information)
 
 # Content Management
 
@@ -17,12 +18,25 @@ To create your account:
 - Contact your supervisor who has at lease `Admin` permission on the system
 - Contact HIS Vietnam IT staff through `sgn.it@his-world.com`
 
-  > Please note that after your account is created, on your first login, please try change your password for security reason.
+  > Please note that after your account is created, on your first login, **you MUST** change your password for security reason.
 
   Assume you already had the account, let's proceed to the login procedure.
 
 1. Go to this link [https://japan.his-discover.com/blog/admin](https://japan.his-discover.com/blog/admin).
+
+
    ![2021-06-28-10-26-japan his-discover com](https://user-images.githubusercontent.com/21214764/123575282-a29ea080-d7fb-11eb-9087-987ee20b3c99.png)
+
 2. Fill the input field with your pre-created account using company's email.
    Ex: *email@his-world.com*
+
    ![image](https://user-images.githubusercontent.com/21214764/123575340-bba75180-d7fb-11eb-9914-b0be1e12cc2f.png)
+
+## Change user information
+
+To update your user information such as, password, email, personal information, ... Please follow the instruction below.
+1. Click your pointer on your avatar on the top right of the site.
+2. Select `View profile`.
+3. Click on `Edit Information`
+4. Start edit your information.
+5. Save.
