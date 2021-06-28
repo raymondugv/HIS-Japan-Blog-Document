@@ -36,7 +36,30 @@ To create your account:
 
 To update your user information such as, password, email, personal information, ... Please follow the instruction below.
 1. Click your pointer on your avatar on the top right of the site.
-2. Select `View profile`.
-3. Click on `Edit Information`
-4. Start edit your information.
-5. Save.
+
+![image](https://user-images.githubusercontent.com/21214764/123579364-f613ed00-d801-11eb-9816-c039093ae284.png)
+
+3. Select `View profile`.
+4. Click on `Edit Information`.
+
+![image](https://user-images.githubusercontent.com/21214764/123579411-0a57ea00-d802-11eb-81cc-a01d1ae7372b.png)
+
+6. Start edit your information.
+
+![image](https://user-images.githubusercontent.com/21214764/123579434-13e15200-d802-11eb-8ffa-7ac00b07762a.png)
+
+In which:
+- Avatar: To change this, simply click on the `pencil` icon
+
+![image](https://user-images.githubusercontent.com/21214764/123579930-ff518980-d802-11eb-8f10-61f892246104.png)
+
+- Name: Your name, this will be used to display on the `Author` section of the site.
+- Email: Your company email. This **should not be changed** unless the some mistake while creating account.
+- Public this profile: Choose to show your information (Name, Self Introduce, Country, Position, Writing Theme) to the viewer.
+- Position: Your position of choice. Ex: Writer of the Year, or Tokyo's influencer.
+- Country: Your nationality, this will help the system to decide your post language. This **should not be changed** unless there's some error while creating account.
+- Self introduce: Some introduction about your selft.
+- Writing Theme: The topic which you're assigned to write about **(Max 5)**.
+
+
+8. Save.
