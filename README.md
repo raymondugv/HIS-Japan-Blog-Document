@@ -5,6 +5,7 @@ In here we would help you know how to use the system as we expected.
 - [Content Management](#content-management)
   - [How to login](#how-to-login)
   - [Change user information](#change-user-information)
+  - [To create or edit Post](#to-create-or-edit-post)
 
 # Content Management
 
@@ -63,3 +64,23 @@ In which:
 
 
 8. Save.
+
+## To create or edit Post
+
+On `Content Management` tab on the menu, select `Posts`.
+
+On `Posts` interface, you would see the table which show all your posts on the system.
+In which:
+- Title: Your post title.
+- Category: Post's categories.
+- Post Image: The image which will show to lead viewers to your post.
+- Status: Display the current status of your post.
+  - Draft: You're still need time to complete this post
+  - Pending: Your post is done, but waiting for a good time to `Publish` it.
+  - Published: Now your post is online and viewers can see it.
+- Created on: The time which the Post is created for the first time.
+- Author: Your name.
+- Post language: This will show the language of your post, means the post will only be read or seen by viewers which using the same language as the post.
+- Action:
+  - Edit: Edit your post.
+  - Delete: Delete your post with Confirm Dialog
