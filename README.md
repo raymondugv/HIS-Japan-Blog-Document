@@ -11,7 +11,7 @@ In this section, bla bla bla
 
 To start controlling the content on the site, please make sure that you **already have** an account.
 To create your account:
-- Contact your supervisor who has at lease `Admin` right on the system
+- Contact your supervisor who has at lease `Admin` permission on the system
 - Contact HIS Vietnam IT staff through `sgn.it@his-world.com`
 
 Assume you already had the account, let's proceed to the login procedure.
