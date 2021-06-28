@@ -173,4 +173,4 @@ Has a new section called **Related Product**.
 
 ___
 # Administrator's Document
-For administrator's document, please click [here](https://github.com/raymondugv/HIS-Japan-Blog-Document/discussions/2).
+For administrator's document, please click [here](administrator-instruction.md).
