@@ -69,7 +69,12 @@ In which:
 
 On `Content Management` tab on the menu, select `Posts`.
 
+![image](https://user-images.githubusercontent.com/21214764/123580574-560b9300-d804-11eb-8105-4e894f2ea8fb.png)
+
 On `Posts` interface, you would see the table which show all your posts on the system.
+
+![image](https://user-images.githubusercontent.com/21214764/123580613-63288200-d804-11eb-9dd1-cbccf43cc0ad.png)
+
 In which:
 - Title: Your post title.
 - Category: Post's categories.
@@ -84,3 +89,5 @@ In which:
 - Action:
   - Edit: Edit your post.
   - Delete: Delete your post with Confirm Dialog
+
+![image](https://user-images.githubusercontent.com/21214764/123580656-79364280-d804-11eb-8b55-5f9df34b53a9.png)
