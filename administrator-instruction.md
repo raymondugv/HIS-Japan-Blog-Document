@@ -138,19 +138,49 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 ## Popular Search
 
 ### Create new Popular Search
+1. Fill all the required field
+
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| Name | text | **Required**. Name of this Keyword |
+| keyword | text | **Required**. Normally, this will be generated at the time Name is inputted. |
+
+2. Save.
+3. Check if created keyword showing on the list.
 
 ### Edit Popular Search
+1. Click on `pencil` icon of selected keyword.
+2. Update information.
+3. Save.
+4. Check if it's updated.
 
 ### Delete Popular Search
-
+1. Click on `trash` icon of selected keyword.
+2. Confirm on showing modal.
+3. Check if keyword deleted.
 ## Advertising
 
 ### Create new Advertising Banner
+1. Click `CREATE NEW` button
+2. Fill all the required field
+
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| Title | text | **Required**. Title of this Advertisement |
+| Link | url | **Required**. URL of this Advertisement |
+| Image | Image | **Required**. Image of this advertisement |
+
+3. Save.
 
 ### Edit Advertising Banner
+1. Click on `pencil` icon.
+2. Update information.
+3. Save.
 
 ### Delete Advertising Banner
-
+1. Click on `trash` icon.
+2. Confirm delete on showing modal.
+3. Check if Advertisement is deleted.
 # Administrator Tools
 
 ## Countries
