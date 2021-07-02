@@ -1,1 +1,132 @@
-#test
+Administrator Document
+---
+
+- [How to login](#how-to-login)
+- [User Information](#user-information)
+  - [User](#user)
+    - [Create new User](#create-new-user)
+    - [Edit User](#edit-user)
+    - [Delete User](#delete-user)
+  - [Role](#role)
+- [Content Management](#content-management)
+  - [Posts](#posts)
+  - [Categories](#categories)
+    - [Create new Category](#create-new-category)
+    - [Edit Category](#edit-category)
+    - [Delete Category](#delete-category)
+  - [Famous Theme](#famous-theme)
+    - [Add new Famous Theme](#add-new-famous-theme)
+    - [Edit Famous Theme](#edit-famous-theme)
+    - [Delete Famous Theme](#delete-famous-theme)
+  - [Special Features](#special-features)
+    - [Add new Special Feature](#add-new-special-feature)
+    - [Edit Special Feature](#edit-special-feature)
+    - [Delete Special Feature](#delete-special-feature)
+  - [Popular Search](#popular-search)
+    - [Create new Popular Search](#create-new-popular-search)
+    - [Edit Popular Search](#edit-popular-search)
+    - [Delete Popular Search](#delete-popular-search)
+  - [Advertising](#advertising)
+    - [Create new Advertising Banner](#create-new-advertising-banner)
+    - [Edit Advertising Banner](#edit-advertising-banner)
+    - [Delete Advertising Banner](#delete-advertising-banner)
+- [Administrator Tools](#administrator-tools)
+  - [Countries](#countries)
+    - [Create new Country Setting](#create-new-country-setting)
+  - [Site Setting](#site-setting)
+
+# How to login
+Please check this [link](https://github.com/raymondugv/HIS-Japan-Blog-Document#how-to-login)
+
+# User Information
+To control User and Role of the system
+## User
+
+### Create new User
+1. Click on `CREATE NEW USER` button
+2. Fill user information
+   
+   More detail, check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#change-user-information)
+3. Save
+
+### Edit User
+Check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#change-user-information)
+### Delete User
+1. Select on `Trash` icon at the end of the user row that you want to delete.
+2. Confirm delete chosen user on showing modal
+3. Page reloaded and check if user account deleted.
+## Role
+View Role setting. Currently, only `Super Admin` can only change this setting.
+
+This would be updated soon.
+# Content Management
+
+## Posts
+Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#posts) for more information
+
+## Categories
+
+### Create new Category
+1. Click on `CREATE NEW` button on top right of the page
+2. Fill the page with category information, in which:
+   
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Category Name in English` | `text` | **Required**. Category name, but in English |
+| `Slug` | `url` | **Required** Usually this will be generated after you type Category Name in English. This is the URL of this category page. This must be **unique** |
+| `Parent Category` | `select` | Parent Category of this Category |
+| `Description` | `text` | **Required** English description of this Category |
+| `Icon` | `image` | Icon for this Category (will not globally showed) |
+| `Image` | `image` | **Required** Image of this Category |
+| `Secondary Image` | `image` | This showing the map of this area (used for Category which has parent is `Destination` only) |
+| `Category name in {language}` | `text` | **Required** Category translation from English to {language} of this Category |
+| `Category description in {lang}` | `text` | **Required** Translated to {lang} of this category description |
+
+3. Save & Update
+### Edit Category
+1. Click on `pencil` icon at the end of the category row.
+2. Change or edit Category information.
+3. Save & Update
+### Delete Category
+1. Click on `trash` icon at the end of the category row.
+2. Confirm on the showing modal.
+3. The page will reload, then check user check if Category deleted.
+## Famous Theme
+
+### Add new Famous Theme
+
+### Edit Famous Theme
+
+### Delete Famous Theme
+
+## Special Features
+
+### Add new Special Feature
+
+### Edit Special Feature
+
+### Delete Special Feature
+
+## Popular Search
+
+### Create new Popular Search
+
+### Edit Popular Search
+
+### Delete Popular Search
+
+## Advertising
+
+### Create new Advertising Banner
+
+### Edit Advertising Banner
+
+### Delete Advertising Banner
+
+# Administrator Tools
+
+## Countries
+
+### Create new Country Setting
+
+## Site Setting
