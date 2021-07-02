@@ -117,10 +117,23 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 ## Special Features
 
 ### Add new Special Feature
+1. Click `CREATE NEW` button.
+2. Fill all the required field
 
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| Link | url | **Required**. URL of this Special Feature |
+| Image | Image | **Required**. Image of this Special Feature |
+
+3. Save
 ### Edit Special Feature
-
+1. Click on `pencil` icon of selected Special Feature.
+2. Update information.
+3. Save.
 ### Delete Special Feature
+1. Click on `trash` icon of selected Special Feature.
+2. Confirm delete on showing modal.
+3. Check if selected Special Feature deleted.
 
 ## Popular Search
 
