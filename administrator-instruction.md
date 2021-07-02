@@ -32,7 +32,6 @@ Administrator Document
     - [Delete Advertising Banner](#delete-advertising-banner)
 - [Administrator Tools](#administrator-tools)
   - [Countries](#countries)
-    - [Create new Country Setting](#create-new-country-setting)
   - [Site Setting](#site-setting)
 
 # How to login
@@ -122,8 +121,8 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 
 | Field | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| Link | url | **Required**. URL of this Special Feature |
-| Image | Image | **Required**. Image of this Special Feature |
+| `Link` | `url` | **Required**. URL of this Special Feature |
+| `Image` | `image` | **Required**. Image of this Special Feature |
 
 3. Save
 ### Edit Special Feature
@@ -142,8 +141,8 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 
 | Field | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| Name | text | **Required**. Name of this Keyword |
-| keyword | text | **Required**. Normally, this will be generated at the time Name is inputted. |
+| `Name` | `text` | **Required**. Name of this Keyword |
+| `Keyword` | `text` | **Required**. Normally, this will be generated at the time Name is inputted. |
 
 2. Save.
 3. Check if created keyword showing on the list.
@@ -166,9 +165,9 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 
 | Field | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| Title | text | **Required**. Title of this Advertisement |
-| Link | url | **Required**. URL of this Advertisement |
-| Image | Image | **Required**. Image of this advertisement |
+| `Title` | `text` | **Required**. Title of this Advertisement |
+| `Link` | `url` | **Required**. URL of this Advertisement |
+| `Image` | `Image` | **Required**. Image of this advertisement |
 
 3. Save.
 
@@ -184,7 +183,13 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 # Administrator Tools
 
 ## Countries
-
-### Create new Country Setting
+List of Supported language on the site, if need change or create new one, please contact `Super Admin`.
 
 ## Site Setting
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Site's Title in {lang}` | `text` | **Required**. Title of the Site in {lang} |
+| `Site Description in {lang}` | `text` | **Required**. Description of the site in {lang} |
+| `Site's Logo` | `image` | **Required**. Logo of the whole website |
+| `Site's Favicon` | `image` | **Required**. The site's favicon, which show on Browser's tab. |
+| `OpenGraph Image` | `image` | **Required**. The image which will show when homepage is pated in SNS platform. |
