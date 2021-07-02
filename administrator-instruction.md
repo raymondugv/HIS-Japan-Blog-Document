@@ -35,7 +35,7 @@ Administrator Document
   - [Site Setting](#site-setting)
 
 # How to login
-Please check this [link](https://github.com/raymondugv/HIS-Japan-Blog-Document#how-to-login)
+Please check this [link](/HIS-Japan-Blog-Document#how-to-login)
 
 # User Information
 To control User and Role of the system
@@ -50,11 +50,11 @@ To control User and Role of the system
 
 2. Fill user information
    
-   More detail, check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#change-user-information)
+   More detail, check [this page](/HIS-Japan-Blog-Document#change-user-information)
 3. Save
 
 ### Edit User
-Check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#change-user-information)
+Check [this page](/HIS-Japan-Blog-Document#change-user-information)
 ### Delete User
 1. Select on `Trash` icon at the end of the user row that you want to delete.
 
@@ -76,7 +76,7 @@ This would be updated soon.
 # Content Management
 
 ## Posts
-Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#posts) for more information
+Please check [this page](/HIS-Japan-Blog-Document#posts) for more information
 
 ## Categories
 
