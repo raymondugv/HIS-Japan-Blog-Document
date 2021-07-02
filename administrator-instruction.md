@@ -94,11 +94,26 @@ Please check [this page](https://github.com/raymondugv/HIS-Japan-Blog-Document#p
 ## Famous Theme
 
 ### Add new Famous Theme
+1. Click on `CREATE NEW` button on top right of the page.
+2. Fill the page with Famous Theme information, in which
 
+| Field | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Name` | `text` | **Required**. Name of this Famous Theme in English |
+| `Short Description` | `text` | **Required**. English version of this Famous Theme's description |
+| `Name in {lang}` | `text` | **Required**. {Lang} version of this Famous Theme's name |
+| `Short Description in {lang}` | `text` | **Required**. {Lang} translationi of Famous Theme's short description |
+| `Image` | `image` | **Required**. Image of this Famous Theme |
+
+3. Click `Create` button so save.
 ### Edit Famous Theme
-
+1. Click on `pencil` icon of selected Famous Theme.
+2. Edit Famous Theme with new information.
+3. `Save & Update`
 ### Delete Famous Theme
-
+1. Click on `trash` icon of selected Famous Theme.
+2. Confirm on showing modal.
+3. Check if selected Famous Theme deleted or not.
 ## Special Features
 
 ### Add new Special Feature
